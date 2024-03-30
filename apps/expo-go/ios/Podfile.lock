@@ -1384,7 +1384,7 @@ PODS:
     - Yoga
   - react-native-slider (4.4.2):
     - React-Core
-  - react-native-webview (13.6.3):
+  - react-native-webview (13.8.4):
     - React-Core
   - React-nativeconfig (0.74.0-rc.5)
   - React-NativeModulesApple (0.74.0-rc.5):
@@ -2331,7 +2331,7 @@ SPEC CHECKSUMS:
   react-native-segmented-control: 0e4b5d93911e2234f110057df2b41738b326ab3e
   react-native-skia: 51b0d93895db5051095048039d207114736c7f93
   react-native-slider: 33b8d190b59d4f67a541061bb91775d53d617d9d
-  react-native-webview: 88293a0f23eca8465c0433c023ec632930e644d0
+  react-native-webview: 17d6151e9c25e90a2755e5a2b393c47e5d16f157
   React-nativeconfig: 83f91b53a8d6a6ecf16a8acd845c99570db7a548
   React-NativeModulesApple: 59ed2248373b3d36badb153f34bb48a6b9ee4865
   React-perflogger: 12c33674b7ad945eee0a2bdb982383a1bb81c75e
